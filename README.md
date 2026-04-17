@@ -1,9 +1,3 @@
-# Hi 👋! My name is Chaitanya Torankar and I'm from India 🇮🇳
-
-I do things which make me happy :)
-
----
-
 <!-- 🔥 Animated Intro -->
 
 <h1 align="center">Hi 👋, I'm Chaitanya Torankar</h1>
