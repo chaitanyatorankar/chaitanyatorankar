@@ -1,33 +1,33 @@
-<!-- 🔥 Animated Intro -->
+<!-- 🔥 HEADER -->
 
 <h1 align="center">Hi 👋, I'm Chaitanya Torankar</h1>
-<h3 align="center">🚀 Data Science | Machine Learning | Computer Vision</h3>
+<h3 align="center">🚀 AI & Data Science Enthusiast | Building Real-World Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Computer+Vision+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Computer+Vision+Developer;Data+Analytics+Explorer;Turning+Data+into+Decisions&center=true&width=520&height=45">
 </p>
 
 ---
 
-<!-- 🖼️ Profile Banner -->
+<!-- 🖼️ PROFILE VISUAL -->
 
 <img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧠 About Me
 
-* 🎓 B.Tech AIDS (Artifical Intelligence & Data Science)
-* 🤖 Passionate about AI, ML & Real-world Problem Solving
-* 📊 Strong in Data Analytics & Visualization
-* ⚡ Love building smart systems using Python
+🎓 B.Tech in Artificial Intelligence & Data Science
+💡 I build intelligent systems that solve real-world problems
+📊 Strong focus on Data Analytics, ML & Computer Vision
+⚡ Always exploring new technologies and improving practical skills
 
 ---
 
 ## 🚀 What I Do
 
-* 🤖 Machine Learning & Deep Learning
-* 👁️ Computer Vision (YOLO, OpenCV)
-* 📈 Time Series Forecasting (ARIMA)
-* 📊 Data Analytics (Power BI, Python)
+✔️ Develop Machine Learning & Deep Learning models
+✔️ Work on Computer Vision projects (YOLO, OpenCV)
+✔️ Perform Time Series Forecasting using ARIMA
+✔️ Create Data-driven dashboards & insights
 
 ---
 
@@ -39,16 +39,27 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
-
 ---
 
 ## 🌟 Featured Projects
 
-🚀 **Stock Sense Analytics**
-→ ARIMA based financial forecasting web app
+### 🚀 Stock Sense Analytics
 
-🧬 **Malaria Detection System**
-→ YOLO-based parasite detection using images
+📊 Financial forecasting web app using ARIMA
+🔍 Helps analyze trends and predict future stock values
+
+### 🧬 Malaria Detection System
+
+🧠 YOLO-based AI model for parasite detection
+⚡ Improves speed and accuracy in medical diagnosis
+
+---
+
+## 🏆 Highlights
+
+✨ Built real-world ML & AI projects
+📈 Strong foundation in Data Structures & Algorithms
+🤝 Experience working on data-driven team projects
 
 ---
 
@@ -63,14 +74,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/chaitanyatorankar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:chaitanyatorankar@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/chaitanyatorankar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:chaitanyatorankar@gmail.com"><img src="https://img.shields.io/badge/Email-Let's Talk-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 💡 Quote
+## 💡 Personal Brand
 
-🔥 *"I don't just analyze data — I turn it into decisions that create real-world impact."*
+🚀 *"I build intelligent solutions that transform raw data into meaningful impact."*
 
 ---
