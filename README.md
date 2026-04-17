@@ -33,32 +33,28 @@
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-</p>
+<!-- Languages -->
 
-### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=python,java,mysql" /><br><br>
 
-<p>
+<!-- AI/ML -->
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/><br><br>
 
-### 📊 Data Tools
+<!-- Data Tools -->
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-</p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br><br>
 
-### ⚒️ Tools
+<!-- Tools -->
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter"/>
+
 </p>
+
 
 ---
 
