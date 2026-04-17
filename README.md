@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-* 🎓 B.Tech CSE (Computer Science & Design)
+* 🎓 B.Tech AIDS (Artifical Intelligence & Data Science)
 * 🤖 Passionate about AI, ML & Real-world Problem Solving
 * 📊 Strong in Data Analytics & Visualization
 * ⚡ Love building smart systems using Python
