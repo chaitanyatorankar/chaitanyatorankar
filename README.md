@@ -8,16 +8,6 @@
 </p>
 
 ---
-<!-- 🔥 Animated Intro -->
-
-<h1 align="center">Hi 👋, I'm Chaitanya Torankar</h1>
-<h3 align="center">🚀 Data Science | Machine Learning | Computer Vision</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Computer+Vision+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
-
----
 
 <!-- 🖼️ Profile Banner -->
 
